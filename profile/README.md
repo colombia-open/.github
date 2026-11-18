@@ -4,7 +4,7 @@ Datasets públicos de Colombia — curados, normalizados y validados, sin
 lidiar con los portales/APIs/Excel de cada institución oficial.
 
 [![PyPI](https://img.shields.io/pypi/v/colombia-open?color=blue)](https://pypi.org/project/colombia-open/)
-[![Sitio](https://img.shields.io/badge/sitio-colombia--open.github.io-black)](https://colombia-open.github.io/)
+[colombia-open.github.io](https://colombia-open.github.io/)
 
 ## 📦 colombia-open
 
@@ -20,21 +20,6 @@ pip install colombia-open
 - Catálogo de datasets y roadmap: [colombia-open.github.io](https://colombia-open.github.io/)
 - Una fuente nueva se agrega aproximadamente cada semana — ver el roadmap
   del repo para lo ya publicado y lo que sigue.
-
-## 🌐 Este sitio
-
-[colombia-open.github.io](https://github.com/colombia-open/colombia-open.github.io)
-es la landing page de la organización (Next.js) — muestra el catálogo de
-datasets y su estado de licencia/procedencia a partir de lo que publica
-`colombia-open`.
-
-## 🚧 En construcción
-
-Proyectos que consumen los datasets de `colombia-open` para construir
-visualizaciones y análisis concretos:
-
-- [colombia-violence-in-numbers](https://github.com/colombia-open/colombia-violence-in-numbers)
-- [colombia-road-safety-atlas](https://github.com/colombia-open/colombia-road-safety-atlas)
 
 ## Licencia y procedencia
 
