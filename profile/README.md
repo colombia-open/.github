@@ -4,7 +4,6 @@ Datasets públicos de Colombia — curados, normalizados y validados, sin
 lidiar con los portales/APIs/Excel de cada institución oficial.
 
 [![PyPI](https://img.shields.io/pypi/v/colombia-open?color=blue)](https://pypi.org/project/colombia-open/)
-[colombia-open.github.io](https://colombia-open.github.io/)
 
 ## 📦 colombia-open
 
